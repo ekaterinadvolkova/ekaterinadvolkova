@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Bonjour</h1>
 
-<!--
-**ekaterinadvolkova/ekaterinadvolkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Java-back-end developer.
 
-Here are some ideas to get you started:
+<h2>About me</h2>
+⚡ I am using Java, Spring, JavaScript, C <br>
+😄 I am studying IoT and Embedded Systems in Metropolia University in Helsinki<br>
+🔭 I’m currently working on [Simulation of System to sell train tickets](https://github.com/ekaterinadvolkova/SBB) <br>
+🌱 I’m currently working in a German telecommunication company which works on projects built on Java<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>My Contacts</h2>
+[LinkedIn](https://www.linkedin.com/in/ekaterina-volkova-b3b578139/)<br>
+Email: ekaterina.d.volkova@gmail.com
+
