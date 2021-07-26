@@ -10,6 +10,8 @@ I intend to be a full-stack developer.<br>
 🔭  I’m doing a simulation for Swiss Railways (SBB), a system to sell train tickets <br>
 🌱  My previous experience in digital marketing brought me to learn JavaScript<br>
 
+
+
 <h2>My Contacts</h2>
 Email: ekaterina.d.volkova@gmail.com
 
