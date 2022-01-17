@@ -1,4 +1,4 @@
-<h1>Bonjour</h1>
+<h1>Bonjour :croissant:</h1>
 
 <h2>About  me</h2>
 
